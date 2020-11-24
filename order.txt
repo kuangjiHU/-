@@ -1,0 +1,1 @@
+date:1 interval:2 stuId:1318014630 stuName:ºú¿õ³ roomId:3 status:0 date:2 interval:1 stuId:1318014630 stuName:ºú¿õ³ roomId:1 status:1 date:5 interval:1 stuId:123 stuName:ºú roomId:2 status:1
